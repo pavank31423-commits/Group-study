@@ -1,0 +1,6 @@
+{
+  "appId": "com.groupstudy.app",
+  "appName": "Group Study",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
